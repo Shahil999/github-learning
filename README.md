@@ -1,3 +1,4 @@
 # github-learning
+
 this is github learning repository
-Author Shahil Bhusal
+Author Shahil Bhusal (hello world)
